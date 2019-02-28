@@ -1,5 +1,4 @@
-# thinkful-git-ws
-For Thinkful Detroit's Git &amp; GitHub Workshop
+#Fun times on Readme
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
