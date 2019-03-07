@@ -5,8 +5,7 @@ Git is a version-control system that tracks changes made to files and allows for
 hello world
 ## Git
 
-## A change
-## another change
+## and a new one
 
 * What is Git?
   * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
