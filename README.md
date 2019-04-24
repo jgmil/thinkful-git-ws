@@ -1,5 +1,5 @@
-# Nick Coleman
-For Thinkful Phonix's Git &amp; GitHub Workshop
+# thinkful-git-ws
+For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
@@ -36,5 +36,6 @@ hello world
 
 ## Summarize
 
+Git is our coding time machine. Mistakes and errors in our code are inevitable. Git allows us to roll back to when our code was still working and avoid making the same mistake twice. Git is our coding safety net. It will also allow you in the future to collaborate with others.
 
 [Take Home Problem](https://codepen.io/chrisbridges/pen/aRLQgo?editors=0010)
