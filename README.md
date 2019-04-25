@@ -1,10 +1,13 @@
+Koddie Becker_Mamma Bear
+Edit this again.
+# Thinkful event!
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
 ## Git
-
+combining what ever.
 * What is Git?
   * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
 * Local & Remote Branches
