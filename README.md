@@ -1,6 +1,6 @@
 # Mark Barbour
 For Thinkful Detroit's Git &amp; GitHub Workshop
-# Test
+
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
 ## Git
