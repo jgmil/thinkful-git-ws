@@ -1,5 +1,6 @@
 Koddie Becker_Mamma Bear
 Edit this again.
+# Thinkful event!
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
