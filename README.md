@@ -1,4 +1,4 @@
-# thinkful-git
+# Nick Coleman ----
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
@@ -7,7 +7,7 @@ hello world
 
 * What is Git?
   * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
-* Local & Remote Branches
+* Local & Remote Badranches
   * Local - branch stored on your personal computer
   * Remote - branch stored in a separate repository, like GitHub, Bitbucket, GitLab, etc
 * Branching Strategies
