@@ -1,4 +1,5 @@
 Koddie Becker_Mamma Bear
+Edit this again.
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
