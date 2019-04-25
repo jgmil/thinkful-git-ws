@@ -1,3 +1,4 @@
+Koddie Becker_Mamma Bear
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
