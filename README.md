@@ -33,7 +33,6 @@ hello world
   * Pull Requests - typically a more formal process where you’re asking an assigned person to merge your code into their repo, while explaining the changes you made and why they should be merged
   * Merge Conflicts - errors that may arise when trying to merge branches - can sometimes be ignored, but should always be carefully looked at to avoid any breaking changes that may arise from merging the two branches
 
-
 ## Summarize
 
 Git is our coding time machine. Mistakes and errors in our code are inevitable. Git allows us to roll back to when our code was still working and avoid making the same mistake twice. Git is our coding safety net. It will also allow you in the future to collaborate with others.
